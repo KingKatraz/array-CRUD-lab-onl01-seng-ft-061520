@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  wild_animals = [lion, monkey, tiger, giraffe]
+  wild_animals = [1, 2, 2, 3]
   
 end
 
